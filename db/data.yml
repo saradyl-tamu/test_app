@@ -1,0 +1,26 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - 2024-08-23 16:07:17.594375000 Z
+    - 2024-08-23 16:07:17.594375000 Z
+
+---
+books:
+  columns:
+  - id
+  - title
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - Sawa swag
+    - 2024-08-23 16:10:19.007893000 Z
+    - 2024-08-23 16:10:25.196476000 Z
